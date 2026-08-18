@@ -13,3 +13,10 @@
         return multiply;
     }
     console.log(multiply(1,2))
+
+
+    const division=(b,c)=>{
+        const divide=b/c;
+        return divide;
+    }
+   console.log(division(12,2))
